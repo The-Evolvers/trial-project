@@ -38,7 +38,7 @@ public class MainActivity extends AppCompatActivity {
 
                 t1.setText(interest+"");
 
-                //Toast.makeText(getApplicationContext(),interest+"",Toast.LENGTH_SHORT).show();
+                Toast.makeText(getApplicationContext(),interest+"",Toast.LENGTH_SHORT).show();
             }
         });
 

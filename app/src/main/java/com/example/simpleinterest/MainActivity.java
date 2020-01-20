@@ -24,10 +24,11 @@ public class MainActivity extends AppCompatActivity {
         Button btnClear = (Button) findViewById(R.id.btnClear);
         final TextView t1 = (TextView) findViewById(R.id.result);
 
-
+//IM Kaushik.
 
         btnSubmit.setOnClickListener(new View.OnClickListener() {
             @Override
+
             public void onClick(View v) {
                 double p = new Double(e1.getText().toString());
                 double t = new Double(e2.getText().toString());

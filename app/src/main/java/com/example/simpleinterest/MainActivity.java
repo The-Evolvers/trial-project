@@ -17,6 +17,8 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+        //Im Kaushik.
+
         final EditText e1 = (EditText) findViewById(R.id.principle);
         final EditText e2 = (EditText) findViewById(R.id.time1);
         final EditText e3 = (EditText) findViewById(R.id.rate);

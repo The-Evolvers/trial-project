@@ -25,6 +25,7 @@ public class MainActivity extends AppCompatActivity {
         Button btnSubmit = (Button) findViewById(R.id.btnSubmit);
         Button btnClear = (Button) findViewById(R.id.btnClear);
         final TextView t1 = (TextView) findViewById(R.id.result);
+        final Button btn1 = (Button)findViewById(R.id.id);
 
 //IM Kaushik.
 //IM Abhishek
